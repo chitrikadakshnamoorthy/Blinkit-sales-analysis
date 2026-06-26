@@ -49,5 +49,5 @@ This project demonstrates the complete data analytics workflow, including data c
 - Business Intelligence
 - Data Visualization
 
-- # Blinkit Sales Analysis
+## Blinkit Sales Analysis
 ![Dashboard](dashboard.png)
