@@ -48,3 +48,6 @@ This project demonstrates the complete data analytics workflow, including data c
 - Dashboard Development
 - Business Intelligence
 - Data Visualization
+
+- # Blinkit Sales Analysis
+![Dashboard](dashboard.png)
